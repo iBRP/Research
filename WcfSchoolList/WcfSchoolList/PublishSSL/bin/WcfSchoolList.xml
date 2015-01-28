@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WcfSchoolList
+</name>
+</assembly>
+<members>
+<member name="M:WcfSchoolList.wcfSchool.ListCountries">
+	<summary>
+ Get list of country
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WcfSchoolList.wcfSchool.ListSchools">
+	<summary>
+ Get list of school
+ </summary>
+	<returns></returns>s
+ <remarks></remarks>
+</member>
+</members>
+</doc>
